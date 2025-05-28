@@ -1,3 +1,5 @@
+package Easy;
+
 public class Easy_27_Remove_Element {
     public int removeElement(int[] nums, int val) {
         int k = 0;//số số hạng trong mảng khác với val

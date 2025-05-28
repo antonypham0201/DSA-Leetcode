@@ -1,3 +1,5 @@
+package Easy;
+
 public class Easy_977_Squares_of_a_Sorted_Array {
      public int[] sortedSquares(int[] nums) {
         int[] sorted = new int[nums.length];

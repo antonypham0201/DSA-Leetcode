@@ -1,3 +1,5 @@
+package Easy;
+
 public class Easy_1089_Dublicate_Zeros {
     public void duplicateZeros(int[] arr) {
         // đếm xem có bao nhiêu phần tử = 0 được dublicates và mảng sẽ có gía trị nào nằm ở cuối

@@ -1,3 +1,5 @@
+package Easy;
+
 public class Easy_1346_Check_If_N_and_Its_Double_Exist {
     public boolean checkIfExist(int[] arr) {
         for(int i =0 ; i < arr.length;i++){

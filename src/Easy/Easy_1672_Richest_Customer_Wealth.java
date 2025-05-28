@@ -1,3 +1,5 @@
+package Easy;
+
 public class Easy_1672_Richest_Customer_Wealth {
     public int maximumWealth(int[][] accounts) {
         int max = 0;

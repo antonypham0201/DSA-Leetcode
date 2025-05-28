@@ -1,3 +1,4 @@
+package Easy;
 import java.util.Arrays;
 public class Easy_1_Two_Sun {
     public int[] twoSum(int[] nums, int target) {
